@@ -1,0 +1,1 @@
+# grafana-json-rest-plugin_release
