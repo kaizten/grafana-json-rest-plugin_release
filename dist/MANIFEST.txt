@@ -1,0 +1,38 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "private",
+  "signedByOrg": "zuluaga754",
+  "signedByOrgName": "zuluaga754",
+  "rootUrls": [
+    "http://localhost:3000/"
+  ],
+  "plugin": "kaizten-fullfetch-datasource",
+  "version": "1.0.0",
+  "time": 1727339870126,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "plugin.json": "bb0b64433cb2e075c3382afaa2c902c34b67b6a78b7af9066db1b7dbf59715a5",
+    "module.js.LICENSE.txt": "6fc2df1392aee5a00dffa045a203f4c6b39a77a1f7e2da8d8af40f8d409eeb1c",
+    "module.js": "bb1ebf6a41163d57f665c83ce2ae5b3102b197279303c15220ee17b98b22c2f3",
+    "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
+    "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
+    "README.md": "03875704f22f8a8dd2031a16f43d94fe47d00b5bc9627e16a3397dcb7b4f41cb",
+    "CHANGELOG.md": "aaa78be4710ef41d56ddab1edbd180ef9f9adfea2f293109aae925dc33a1b9b3",
+    "module.js.map": "106b5b5902b3047a21e43b731dd0e301d2da50eeccd44adeccdc81ffc0c718e6"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.11
+Comment: https://openpgpjs.org
+
+wrkEARMKAAYFAmb1HV4AIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5z5hAgkBPs1zAiVTpB2IT/qKmt5rvW2rGlMhduGCcLieoHF4gqEJo0Xb
+gUiT/pNg0Bbup78fli3Yp410Yz8Po9wFW/NyHmkCCQETgJ4FP0xKQYUPx/ZR
+NbsduGmpcv4SMPScBs3vV4SX5nJTxDHwUSQL9UT6RuEEBjsp8aSqIUIHXPkG
+NdEHmuOGfw==
+=c/N8
+-----END PGP SIGNATURE-----
